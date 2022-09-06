@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+# My name is Dimitar Dimitrov.
+Pronouns: he/him 
 
-<!--
-**MitkoVtori/MitkoVtori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 I’m studying programing Fundamentals with Python at the moment.
+- 🍕 I love fastfood!
+- **🚲** Bicycle racer.
+### 🧗‍♂️ Hobbies:
+- Learning new things
+- Playing football
+- Going out with friends
+- watching YouTube
