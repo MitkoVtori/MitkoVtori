@@ -1,5 +1,4 @@
-# Hello there <img src="![giphy](https://user-images.githubusercontent.com/112943652/190341553-ca7ff528-3932-4730-ad78-87d5451b2e77.gif)
-" width="30px" height="30px">
+# Hello there ![giphy](https://user-images.githubusercontent.com/112943652/190341553-ca7ff528-3932-4730-ad78-87d5451b2e77.gif)
 # My name is Dimitar Dimitrov.
 Pronouns: he/him 
 
