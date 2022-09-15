@@ -5,7 +5,6 @@ Pronouns: he/him
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080198403604)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/call.me.mitko/)
-<a href="https://twitter.com/Mitko.Vtori?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - 🐍 I’m studying programing Fundamentals with Python at the moment.
 - 🍕 I love fastfood!
 - **🚲** Bicycle racer.
