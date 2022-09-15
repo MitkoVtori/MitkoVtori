@@ -1,4 +1,4 @@
-# Hello there <img src="https://giphy.com/stickers/wave-hand-rakastella-eh1fUok5T96aLnr99A" width="30px" height="30px">
+# Hello there <img src="file:///C:/Users/PC-Admin/Pictures/giphy.gif" width="30px" height="30px">
 # My name is Dimitar Dimitrov.
 Pronouns: he/him 
 
