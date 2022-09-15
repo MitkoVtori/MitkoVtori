@@ -3,6 +3,7 @@
 # My name is Dimitar Dimitrov.
 Pronouns: he/him 
 
+[![Facebook](https://www.facebook.com/profile.php?id=100080198403604)
 - 🐍 I’m studying programing Fundamentals with Python at the moment.
 - 🍕 I love fastfood!
 - **🚲** Bicycle racer.
