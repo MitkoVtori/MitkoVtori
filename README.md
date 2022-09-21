@@ -13,6 +13,7 @@ Pronouns: he/him
 - Playing football
 - Going out with friends
 - watching YouTube
+
 https://github-profile-trophy.vercel.app/?username=mitkovtori&theme=dracula
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
