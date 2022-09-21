@@ -21,3 +21,4 @@ Pronouns: he/him
 
   <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
+<a href="https://twitter.com/intent/tweet?url=MitkoVtori&text=I%20found%20This%20cool%20GitHub%20profile" target="_blank"><img src="file:///C:/Users/PC-Admin/Pictures/Tweet.png"/></a>
