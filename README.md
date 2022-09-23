@@ -16,7 +16,7 @@ Pronouns: he/him
 ### 🚀 Reach me:
 - Discord: PlayerDM#8795
 - <a href="https://github.com/MitkoVtori/Message-me">GitHub Public conversations</a>
-- Email: gamingplayerdm@gmail.com
+- Email: farmpointsfarm@gmail.com
 <img src="https://github-profile-trophy.vercel.app/?username=mitkovtori&theme=dracula" />
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
