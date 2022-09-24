@@ -22,7 +22,7 @@ Pronouns: he/him
   <!-- <summary>:zap: GitHub Stats</summary> -->
   <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MitkoVtori&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
 
-  <img height="165em" alt="My GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
   
   <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori&text=I%20found%20This%20cool%20GitHub%20profile" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 100px;"/></a>
 </p>
