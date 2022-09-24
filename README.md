@@ -26,5 +26,7 @@ Pronouns: he/him
 
 <img width="500px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=radical&repo=Mitko.Vtori-personal-blog" />
 
+  <img width="500px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=tokyonight&repo=SoftUni-Fundamentals-September-2022" />
+  
   <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori&text=I%20found%20This%20cool%20GitHub%20profile" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 100px;"/></a>
 </p>
