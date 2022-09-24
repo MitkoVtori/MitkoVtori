@@ -20,7 +20,7 @@ Pronouns: he/him
 <img src="https://github-profile-trophy.vercel.app/?username=mitkovtori&theme=dracula" />
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MitkoVtori&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
+![MitkoVtori GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&theme=dark&show_icons=true)
 
   <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
   
