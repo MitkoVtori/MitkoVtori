@@ -27,7 +27,7 @@ Pronouns: he/him
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
 <img height="250" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&include_all_contributions=true&theme=aura" />
-
+<br><br><img height="90" src="https://skillicons.dev/icons?i=python,html,css,ruby,mysql&theme=dark"><br>
   <img height="250" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&layout=compact&theme=aura&text_color=00FFFB" />
 
 <a href="https://github.com/MitkoVtori/Mitko.Vtori-World"> <img width="500px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=radical&repo=Mitko.Vtori-World" /> </a> <a href="https://github.com/MitkoVtori/SoftUni-Fundamentals-September-2022">  <img width="520px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=tokyonight&repo=SoftUni-Fundamentals-September-2022" /> </a>
