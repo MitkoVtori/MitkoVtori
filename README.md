@@ -19,14 +19,19 @@ Pronouns: he/him
 - Discord: PlayerDM#8795
 - <a href="https://github.com/MitkoVtori/Message-me">GitHub Public conversations</a>
 - Email: mitko.vtori@gmail.com
-<img src="https://github-profile-trophy.vercel.app/?username=mitkovtori&theme=dracula" />
+<br>
+<img height="125" src="https://github-profile-trophy.vercel.app/?username=mitkovtori&theme=dracula" />
+
+<img height="250" src="https://streak-stats.demolab.com?user=MitkoVtori&theme=highcontrast">
+
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
-<img height="200" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&include_all_contributions=true&theme=aura" />
+<img height="250" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&include_all_contributions=true&theme=aura" />
 
-  <img height="200" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&layout=compact&theme=aura&text_color=00FFFB" />
+  <img height="250" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&layout=compact&theme=aura&text_color=00FFFB" />
 
-<a href="https://github.com/MitkoVtori/Mitko.Vtori-World"> <img width="400px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=radical&repo=Mitko.Vtori-World" /> </a> <a href="https://github.com/MitkoVtori/SoftUni-Fundamentals-September-2022">  <img width="400px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=tokyonight&repo=SoftUni-Fundamentals-September-2022" /> </a>
+<a href="https://github.com/MitkoVtori/Mitko.Vtori-World"> <img width="500px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=radical&repo=Mitko.Vtori-World" /> </a> <a href="https://github.com/MitkoVtori/SoftUni-Fundamentals-September-2022">  <img width="520px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=tokyonight&repo=SoftUni-Fundamentals-September-2022" /> </a>
+<a href="https://github.com/MitkoVtori/Fundamentals-Common">  <img width="520px" alt="My GitHub Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MitkoVtori&theme=tokyonight&repo=Fundamentals-Common" /> </a>
   
-  <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori&text=I%20found%20This%20cool%20GitHub%20profile" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 100px;"/></a>
+  <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori&text=I%20found%20This%20cool%20GitHub%20profile" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 150px;"/></a>
 </p>
