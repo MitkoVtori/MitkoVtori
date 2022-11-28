@@ -1,24 +1,30 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 # My name is Dimitar Dimitrov.
-Pronouns: he/him 
+#### Pronouns: he/him 
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080198403604)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/call.me.mitko/)
 [![Twitter](https://img.shields.io/badge/-Twitter-10EAED?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MitkoVtori)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/MitkoVtori)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-dimitrov-274807254/)
-- 🐍 I’m studying programing Fundamentals with Python at the moment.
-- 🍕 I love fastfood!
-- **🚲** Bicycle racer.
+### <img width="35" src="https://user-images.githubusercontent.com/112943652/204311407-7a8cff06-9582-4c68-a7b6-a756c95f3a5c.jpg"> _**Internet knowledge**_
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **I’m studying programing Fundamentals with Python at the moment.**
+- <img width="15" src="https://skillicons.dev/icons?i=html"> **Have experience** with **html**5 & **css**3 and **knows 1/3 of them**. **Going to** learn the rest **soon**!
+- <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Have Software design eye. Have experience with software design.**
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204319333-10213b8e-6525-4d92-a9f4-f38b10f1c795.jpg"> **Learn new things every day and have no intention of stopping.**
 ### 🧗‍♂️ Hobbies:
-- Learning new things
-- Playing football
-- Going out with friends
-- watching YouTube
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"> I love Gaming!
+- **🚲 Bicycle racer**
+- **👨‍💻 Learning new things**
+- **⚽ Playing football**
+- <img width="65" src="https://see.fontimg.com/api/renderfont4/Go4D/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/ZnJpZW5kcw/motor.png"> **Going out with friends**
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Programming**
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> **Watching Movies**
 ### 🚀 Reach me:
-- Discord: PlayerDM#8795
-- <a href="https://github.com/MitkoVtori/Message-me">GitHub Public conversations</a>
+- Discord: <a href="https://discord.com/">PlayerDM#8795</a>
+- GitHub Message-me: <a href="https://github.com/MitkoVtori/Message-me">GitHub Public conversations</a>
 - Email: mitko.vtori@gmail.com
+- Linkedin: <a href="https://www.linkedin.com/in/dimitar-dimitrov-274807254/">**Linked**<img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png"></a>
 <br>
 <img height="125" src="https://github-profile-trophy.vercel.app/?username=mitkovtori&theme=dracula" />
 
