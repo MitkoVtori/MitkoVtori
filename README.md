@@ -13,7 +13,7 @@
 - <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Have Software design eye. Have experience with software design.**
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204319333-10213b8e-6525-4d92-a9f4-f38b10f1c795.jpg"> **Learn new things every day and have no intention of stopping.**
 ### 🧗‍♂️ Hobbies:
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"> I love Gaming!
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"> **I love Gaming!**
 - **🚲 Bicycle racer**
 - **👨‍💻 Learning new things**
 - **⚽ Playing football**
