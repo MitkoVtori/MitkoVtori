@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-10EAED?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MitkoVtori)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/MitkoVtori)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-dimitrov-274807254/)
-### <img width="35" src="https://user-images.githubusercontent.com/112943652/204311407-7a8cff06-9582-4c68-a7b6-a756c95f3a5c.jpg"> _**Internet knowledge**_
+### <img width="35" src="https://user-images.githubusercontent.com/112943652/204311407-7a8cff06-9582-4c68-a7b6-a756c95f3a5c.jpg"> _**Software knowledge**_
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **I’m studying programing Fundamentals with Python at the moment.**
 - <img width="15" src="https://skillicons.dev/icons?i=html"> **Have experience** with **html**5 & **css**3 and **knows 1/3 of them**. **Going to** learn the rest **soon**!
 - <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Have Software design eye. Have experience with software design.**
