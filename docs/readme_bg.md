@@ -1,3 +1,14 @@
+<p align="center">
+  <img width="150px" src="https://user-images.githubusercontent.com/112943652/204597640-c06943dc-c63a-4ef1-948b-2555bcfca612.png" align="center" />
+  <h1 align="center">Languages</h1>
+</p>
+<h3 align="center">  
+  <a href="docs/readme_bg.md">Bulgarian</a>
+  ·
+  <a href="https://github.com/MitkoVtori/MitkoVtori/blob/main/README.md">English</a>
+</h3>
+<br>
+
 # Здравей <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 # Казвам се Димитър Димитров.
 #### Местоимения: той/него 
