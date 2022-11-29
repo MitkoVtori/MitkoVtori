@@ -3,7 +3,7 @@
   <h1 align="center">Languages</h1>
 </p>
 <h3 align="center">  
-  <a href="docs/readme_bg.md">Bulgarian</a>
+  <a href="docs/readme_bg.md">Български</a>
   ·
   <a href="https://github.com/MitkoVtori/MitkoVtori/blob/main/README.md">English</a>
 </h3>
