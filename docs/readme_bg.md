@@ -43,7 +43,7 @@
 
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
-<img height="250" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&include_all_contributions=true&theme=aura" />
+<img height="250" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura" />
 <br><br><img height="90" src="https://skillicons.dev/icons?i=python,html,css,ruby,mysql&theme=dark"><br>
   <img height="400" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitkoVtori&layout=compact&langs_count=12&theme=aura&text_color=00FFFB" />
 
