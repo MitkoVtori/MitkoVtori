@@ -1,0 +1,32 @@
+html {
+    background: black;
+}
+body {
+    background: pink;
+}
+#sections {
+    background: black;
+    margin: 0;
+}
+    #sections button {
+        font-size: 50px;
+    }
+
+.home {
+    background: pink;
+}
+#GitHub {
+    margin-left: 75%;
+    margin-top: 5%;
+}
+.About {
+    background: #22DEFF;
+}
+#About {
+    font-size: 185%;
+    color: #8A3090;
+}
+#Linkedin {
+    margin-top: 5%;
+    margin-left: 19%;
+}
