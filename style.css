@@ -30,3 +30,26 @@ body {
     margin-top: 5%;
     margin-left: 19%;
 }
+.TopRepos {
+    background: black;
+}
+#TopRepos {
+    margin-left: 34%;
+}
+.expandable {
+      overflow: hidden;
+      line-height: 90%;
+      transition: all .5s ease-in-out;
+      height: 0;
+     }
+
+     .expandable:target {
+        height: 100%;
+    }
+#repositories {
+    background: white;
+}
+#StackOverflow {
+    margin-top: 10%;
+    margin-left: 40%;
+}
