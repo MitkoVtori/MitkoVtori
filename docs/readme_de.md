@@ -32,8 +32,8 @@
 - **👨‍💻 Um neue Dinge zu lernen**
 - **⚽ Football spielen**
 - <img width="65" src="https://see.fontimg.com/api/renderfont4/Go4D/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/ZnJpZW5kcw/motor.png"> **Mit Freunden ausgehen**
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Да програмирам**
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> **Да гледам филми**
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Programmierung**
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> **Filme schauen**
 ### 🚀 kontaktiere mich:
 - Discord: <a href="https://discord.com/">PlayerDM#8795</a>
 - GitHub Message-me: <a href="https://github.com/MitkoVtori/Message-me">GitHub Public conversations</a>
