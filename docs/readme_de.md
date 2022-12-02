@@ -3,7 +3,7 @@
   <h1 align="center">Sprachen</h1>
 </p>
 <h3 align="center">  
-  <a href="docs/readme_bg.md">Български</a>
+  <a href="readme_bg.md">Български</a>
   ·
   <a href="docs/readme_de.md">Deutsch</a>
   ·
