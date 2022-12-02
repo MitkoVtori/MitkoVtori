@@ -1,17 +1,19 @@
 <p align="center">
   <img width="150px" src="https://user-images.githubusercontent.com/112943652/204597640-c06943dc-c63a-4ef1-948b-2555bcfca612.png" align="center" />
-  <h1 align="center">Езици</h1>
+  <h1 align="center">Sprachen</h1>
 </p>
 <h3 align="center">  
   <a href="docs/readme_bg.md">Български</a>
+  ·
+  <a href="docs/readme_de.md">Deutsch</a>
   ·
   <a href="https://github.com/MitkoVtori/MitkoVtori/blob/main/README.md">English</a>
 </h3>
 <br>
 
-# Здравей <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-# Казвам се Димитър Димитров.
-#### Местоимения: той/него 
+# Hallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+# Mein Name ist Dimitar Dimitrov.
+#### Pronomen: er/ihn
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080198403604)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/call.me.mitko/)
@@ -19,20 +21,20 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-FFFFFF?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/20446595/mitko-vtori)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/MitkoVtori)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-dimitrov-274807254/)
-### <img width="35" src="https://user-images.githubusercontent.com/112943652/204311407-7a8cff06-9582-4c68-a7b6-a756c95f3a5c.jpg"> _**Софтуерни познания**_
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **В момента изучавам Programming Fundamentals with Python в SoftUni.**
-- <img width="15" src="https://skillicons.dev/icons?i=html"> **Имам опит** с **html**5 & **css**3 и **съм запознат с 1/3 от тях**. **Ще науча** останалите 2/3 **скоро**!
-- <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Имам дизайнерско око. Опит в софтуерния дизайн.**
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204319333-10213b8e-6525-4d92-a9f4-f38b10f1c795.jpg"> **Научавам нови неща всеки ден и нямам намерение да спирам.**
-### 🧗‍♂️ Хобита:
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"> **Обичам да играя игри!**
-- **🚲 Велосипеден състезател**
-- **👨‍💻 Да научавам нови неща**
-- **⚽ Да играя футбол**
-- <img width="65" src="https://see.fontimg.com/api/renderfont4/Go4D/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/ZnJpZW5kcw/motor.png"> **Да излизам навън с приятели**
+### <img width="35" src="https://user-images.githubusercontent.com/112943652/204311407-7a8cff06-9582-4c68-a7b6-a756c95f3a5c.jpg"> _**Softwarekenntnisse**_
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **Ich studiere derzeit Programming Fundamentals with Python.**
+- <img width="15" src="https://skillicons.dev/icons?i=html"> **Ich habe Erfahrun** mit **html**5 & **css**3 und **kenne 1/3 davon**. **Die anderen** 2/3 lerne ich **bald**!
+- <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Ich habe ein Auge für Design. Erfahrung im Softwaredesign.**
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204319333-10213b8e-6525-4d92-a9f4-f38b10f1c795.jpg"> **Ich lerne jeden Tag neue Dinge und habe nicht die Absicht aufzuhören.**
+### 🧗‍♂️ Hobbys:
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"> **Ich liebe Spiele!**
+- **🚲 Radrennfahrer**
+- **👨‍💻 Um neue Dinge zu lernen**
+- **⚽ Football spielen**
+- <img width="65" src="https://see.fontimg.com/api/renderfont4/Go4D/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/ZnJpZW5kcw/motor.png"> **Mit Freunden ausgehen**
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Да програмирам**
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> **Да гледам филми**
-### 🚀 Свържи се с мен:
+### 🚀 kontaktiere mich:
 - Discord: <a href="https://discord.com/">PlayerDM#8795</a>
 - GitHub Message-me: <a href="https://github.com/MitkoVtori/Message-me">GitHub Public conversations</a>
 - Email: mitko.vtori@gmail.com
