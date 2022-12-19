@@ -9,6 +9,8 @@
   ·
   <a href="https://github.com/MitkoVtori/MitkoVtori/blob/main/README.md">English</a>
   ·
+  <a href="readme_es.md">Español</a>
+  ·
   <a href="readme_ru.md">Русский</a>
 </h3>
 <br>
