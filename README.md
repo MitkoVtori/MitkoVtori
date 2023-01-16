@@ -46,7 +46,7 @@
 <br>
 <img height="250" src="https://github-profile-trophy.vercel.app/?username=mitkovtori&theme=dracula" />
 
-<img height="250" src="https://streak-stats.demolab.com?user=MitkoVtori&theme=highcontrast">
+<img height="250" src="https://streak-stats.demolab.com?user=MitkoVtori&theme=modern-lilac2">
 
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
