@@ -44,7 +44,7 @@
 - Email: mitko.vtori@gmail.com
 - Linkedin: <a href="https://www.linkedin.com/in/dimitar-dimitrov-274807254/">**Linked**<img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png"></a>
 <br>
-<img height="250" src="https://github-profile-trophy.vercel.app/?username=mitkovtori&theme=dracula" />
+<img height="250" src="https://github-profile-trophy.vercel.app/?username=mitkovtori&column=4&theme=dracula" />
 
 <img height="250" src="https://streak-stats.demolab.com?user=MitkoVtori&theme=modern-lilac2">
 
