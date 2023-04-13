@@ -50,7 +50,7 @@
 
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
-<img height="250" alt="My GitHub Stats" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api?username=MitkoVtori&count_private=true&include_all_commits=true&random=23423ads&theme=aura" />
+<img height="250" alt="My GitHub Stats" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api?username=MitkoVtori&count_private=true&include_all_commits=true&random=23423ads&theme=night_knight" />
 <br><br><img height="125" src="https://skillicons.dev/icons?i=python,html,css,js"><br>
   <img height="250" alt="My GitHub Stats" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api/top-langs/?username=MitkoVtori&layout=compact&langs_count=4&theme=aura&text_color=00FFFB" />
 
