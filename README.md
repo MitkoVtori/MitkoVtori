@@ -50,9 +50,6 @@
 
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
-<img height="250" alt="My GitHub Stats" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api?username=MitkoVtori&count_private=true&include_all_commits=true&random=23423ads&hide_border=true&theme=night_vibe" />
-<br><br><img height="125" src="https://skillicons.dev/icons?i=python,html,css,js"><br>
-  <img height="250" alt="My GitHub Stats" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api/top-langs/?username=MitkoVtori&layout=compact&langs_count=4&theme=night_vibe&text_color=00FFFB&hide_border=true" />
 
 <a href="https://github.com/MitkoVtori/MitkoVtori.github.io"> <img width="500px" alt="My GitHub Repo" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api/pin/?username=MitkoVtori&theme=midnight-purple&repo=MitkoVtori.github.io" /> </a> <a href="https://github.com/MitkoVtori/SoftUni-Python-Advanced-OOP-2023-01">  <img width="520px" alt="My GitHub Repo" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api/pin/?username=MitkoVtori&theme=night_vibe&repo=SoftUni-Python-Advanced-OOP-2023-01" /> </a>
 <a href="https://github.com/MitkoVtori/SoftUni-Fundamentals-September-2022">  <img width="520px" alt="My GitHub Repo" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api/pin/?username=MitkoVtori&theme=night_vibe&repo=SoftUni-Fundamentals-September-2022" /> </a>
