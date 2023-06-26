@@ -27,8 +27,8 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-dimitrov-274807254/)
 ### <img width="35" src="https://user-images.githubusercontent.com/112943652/204311407-7a8cff06-9582-4c68-a7b6-a756c95f3a5c.jpg"> _**Знание программного обеспечения**_
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **Сейчас я учусь Python Web Development.**
-- <img width="15" src="https://skillicons.dev/icons?i=html"> **У меня есть опыт** с **html**5 & **css**3 и **я знаком с 1/3 из них**. **Будет учить** остальные 2/3 **скоро**!
-- <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **У меня дизайнерский взгляд. Опыт разработки программного обеспечения.**
+- <img width="15" src="https://skillicons.dev/icons?i=html"> Хорошее знание **html и css**!
+- <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Базовый опыт работы с интерфейсом JavaScript.**
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204319333-10213b8e-6525-4d92-a9f4-f38b10f1c795.jpg"> **Каждый день я узнаю что-то новое и не собираюсь останавливаться.**
 ### 🧗‍♂️ Увлечения:
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"> **Я люблю играть в игры!**
