@@ -58,4 +58,4 @@
 <a href="https://github.com/MitkoVtori/Python-Web-Basics">  <img width="520px" alt="My GitHub Repo" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api/pin/?username=MitkoVtori&theme=night_vibe&repo=Python-Web-Basics" /> </a>
   
   <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori&text=I%20found%20This%20cool%20GitHub%20profile" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 150px;"/></a>
-</p>
+</p
