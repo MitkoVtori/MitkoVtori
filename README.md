@@ -59,3 +59,4 @@
   
   <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori&text=I%20found%20This%20cool%20GitHub%20profile" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 150px;"/></a>
 </p>
+
